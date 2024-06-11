@@ -2,18 +2,18 @@
 
 ### 2.1. Dart Basics
 - **Variables, Data Types, and Operators**
- - Objective: Understand how to declare variables, the different data types available in Dart, and how to use operators.
- - Topics:
-   - Declaring variables (var, final, const).
-   - Data types (int, double, String, bool, List, Map).
-   - Basic operators (arithmetic, relational, logical).
+  - Objective: Understand how to declare variables, the different data types available in Dart, and how to use operators.
+  - Topics:
+    - Declaring variables (var, final, const).
+    - Data types (int, double, String, bool, List, Map).
+    - Basic operators (arithmetic, relational, logical).
 
- - **Control Flow Statements** 
+- **Control Flow Statements** 
   - Objective: Learn how to control the flow of your Dart programs using conditional statements and loops.
   - Topics:
-   - if, else if, else statements.
-   - switch statements.
-   - Loops: for, while, do-while.
+    - if, else if, else statements.
+    - switch statements.
+    - Loops: for, while, do-while.
 
 Functions and Scope
 Objective: Understand how to define and use functions in Dart, and how scope works.
